@@ -16,7 +16,7 @@ Splunk and AI Technology
 
 ## Business Activities
 
-* The company is trying to solve Cyber threats, hybrid, multi-cloud computing complexity related security threats , and operational inefficiencies, as well as continue to innovate with AI to     provide comprehensive secutity and observability solutions capable of delivering digital resilience at enterprise scale.
+* The company is trying to solve Cyber threats, hybrid, multi-cloud computing complexity related security threats , and operational inefficiencies, as well as continue to innovate with AI to     "provide comprehensive secutity and observability solutions capable of delivering digital resilience at enterprise scale."
   
 * The company aims at giving customers enterprise control over their multiple tools/apps, data collection, usage, and cost through their unified platform , thus increasing visibility across multiple global business units. They also use automation for threat intelligence/analysis to improve applications and infrastructure.
 
