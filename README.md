@@ -4,8 +4,6 @@ Splunk and AI Technology
 
 ## Overview and Origin
 
-* Splunk
-
 * Splunk was incorporated in 2003
 
 * The founders of Splunk are Erik Swan, Michael Baum, Rob Das
