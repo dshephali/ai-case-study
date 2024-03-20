@@ -30,9 +30,10 @@ Splunk and AI Technology
 
 * This company is in the field of technology, more specifcally Cybersecurity, Operational intelligence, Cloud and AI automation for Businesses. Some other major companies in technology field are Cisco , Google , Nvidia, IBM etc
 
-* What have been the major trends and innovations of this field over the last 5 to 10 years? 
-  
-????????????????????????????????????????????????????????
+* Splunk is in the field of technology, more specifcally Cybersecurity, Operational intelligence, Cloud and AI automation for Businesses. Some other major companies in technology field are Nvidia, Microsoft, Google, Datadog, Cisco , IBM etc. All these competitors have robust hardware and ecosystem to compete against Splunk’s offerings, especially Microsoft’s and Google’s ecosystem. Datadog is also a major player in the same type of products and services offering as Splunk.
+
+* The major trends and innovations of technology and specifically AI technologies have been Nvidia’s Open AI ChatGPT, Chatbots that started with applications like Slack, and facebook messenger, but are now part of almost every major retailer’s company websites including Google and Amazon; Siri, Google Assistant, Alexa using Natural Language Processing (NLP) to respond to user questions; Explainable AI (XAI) aimed to provide an understanding of how AI works so humans can understand and trust AI generated results; and AI powered analytics for data management and timely decision making etc. 
+* The most recent AI technology innovation is Nvidia’s AI Chip called Blackwell , launched March 18, 2024, that will have the increased processing power to “enable AI companies to train bigger and more intricate [AI] model”. Though companies like Microsoft and Meta committed to AMD, a rival of Nvidia, to buy AI chips from them back in Dec 2023, they will still depend on Nvidia for these high capacity Blackwell chips that are the next version to Nvidia’s Hopper. These advancements in AI technology will impact all business areas not just tech companies.
 
 
 ## Results
@@ -66,3 +67,6 @@ Splunk and AI Technology
 * What is Splunk? Key Benefits & Features of Splunk - https://www.fortinet.com/resources/cyberglossary/what-is-splunk#.~.:text=A%20Brief%20History%20of%20Splunk,the%20hobby%20of%20exploring%20caves.
 * Splunk - Reviews, Pros & Cons - stackshare.io
 * Splunk - Crunchbase Tech stack, Apps, Patents & Trademarks - https://www.crunchbase.com/organization/splunk/tecnology
+* https://devabit.com/blog/top-11-new-technologies-in-ai-exploring-the-latest-trends/
+* https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html?utm_source=tldrnewsletter 
+* https://www.gartner.com/reviews/market/security-information-event-management/vendor/splunk/alternatives
